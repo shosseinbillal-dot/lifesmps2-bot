@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DbgamingLive",
+    "username": "lifesmpbot-2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
+    "ip": "lifesmps2.mcsh.io",
+    "port": ,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "life smp s2",
+        "welcome to life smp!",
+        "fahhhhh"
       ]
     },
     "chat-log": true,
